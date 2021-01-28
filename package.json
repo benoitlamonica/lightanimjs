@@ -1,6 +1,6 @@
 {
   "name": "lightanim",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "This is a small JS framework for animation",
   "main": "app.js",
   "scripts": {
