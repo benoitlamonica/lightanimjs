@@ -1,12 +1,6 @@
 class LightAnim {
     constructor() {
         this.wrapper = document.querySelector('.wrapper-lightjs');
-        this.domObjects = []
-        let head = document.querySelector('head');
-        let link = document.createElement('link');
-        link.setAttribute('rel', 'stylesheet');
-        link.setAttribute('href', './css/main.css');
-        head.appendChild(link);
         this.listEffect = [
             "fadeInUp",
             "fadeInDown",
